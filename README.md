@@ -10,6 +10,7 @@ I can develop a dynamic and responsive website with the following tech stack:
 -JavaScript <br>
 -Bootstrap<br>
 -ReactJS <br>
+-Redux <br>
 
 If you are interested in getting to know me, please follow my Linkedin account [Linkedin] www.linkedin.com/in/jacky-chen-1b55422a1
 

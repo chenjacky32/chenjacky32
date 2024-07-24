@@ -1,17 +1,18 @@
 <h1 align="left">Hello, I'm Jacky Chen👋</h1>
 
-###
-
-<h3 align="left">A Passionate about Fullstack Web Development</h3>
-
-###
-
 <img align="right" height="350"  src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif"  />
 
 ###
 
 
 <p align="left">
+
+###
+
+<h3 align="left">A Passionate about Fullstack Web Development</h3>
+
+###
+
 <br>
 <li>🌱 I’m currently learning <b>Next.js</li>
 <br>   
@@ -23,8 +24,10 @@
 <br>
 <li>⚡ Fun fact about me : <b>Long life learner</b></li>
 <br>
+<br>
 
-###
+##
+
 
 <br clear="both">
 

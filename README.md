@@ -6,9 +6,10 @@
 
 ###
 
-<img align="right" height="400" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif"  />
+<img align="right" height="350"  src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif"  />
 
 ###
+
 
 <p align="left">
 <br>

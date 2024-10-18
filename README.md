@@ -16,7 +16,7 @@
 <br>
 <li>🌱 I’m currently learning <b>Next.js</li>
 <br>   
-<li>👨‍💻 All of my projects are available at <a href="https://yourportfolio.com" target="_blank"><u>My Portofolio</u></a></li>
+<li>👨‍💻 All of my projects are available at <a href="https://my-portofolio-website-gamma.vercel.app/" target="_blank"><u>My Portofolio</u></a></li>
 <br>   
 <li>💬 Ask me about <b>Javascript</b></li>
 <br>   

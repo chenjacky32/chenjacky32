@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">A Passionate about Fullstack Web Development</h3>
+<h3 align="left">A Passionate about Fullstack Development</h3>
 
 ###
 

@@ -1,5 +1,7 @@
-# 💫 About Me:
-A Passionate about Fullstack Development<br><br>🌱 I’m currently learning Next.js<br>👨‍💻 All of my projects are available at My Portofolio<br>💬 Ask me about Javascript<br>📫 How to reach me : Chenjacky32@gmail.com<br>⚡ Fun fact about me : Long life learner
+<img src="header.png"/>
+
+# Fullstack Developer / AI Native Engineer<br>
+🌱 I’m currently learning : <b>Flutter</b><br>👨‍💻 All of my projects are available at [My Portfolio](https://my-portofolio-website-gamma.vercel.app/homepage)<br>💬 Ask me about: <b>Javascript, Typescript, AI Agent, Vibe Coding, SQL</b><br>📫 How to reach me : Chenjacky32@gmail.com<br>⚡ Fun fact about me : <b>Long life learner</b>
 
 
 ## 🌐 Socials:

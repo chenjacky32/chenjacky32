@@ -1,6 +1,6 @@
 <img src="header.png"/>
 
-# Fullstack Developer / AI Native Engineer<br>
+# Fullstack Developer | AI Native Engineer<br>
 🌱 I’m currently learning : <b>Flutter</b><br>👨‍💻 All of my projects are available at [My Portfolio](https://my-portofolio-website-gamma.vercel.app/homepage)<br>💬 Ask me about: <b>Javascript, Typescript, AI Agent, Vibe Coding, SQL</b><br>📫 How to reach me : Chenjacky32@gmail.com<br>⚡ Fun fact about me : <b>Long life learner</b>
 
 

@@ -3,6 +3,8 @@
 # Fullstack Developer | AI Native Engineer<br>
 🌱 I’m currently learning : <b>Flutter</b><br>👨‍💻 All of my projects are available at [My Portfolio](https://my-portofolio-website-gamma.vercel.app/homepage)<br>💬 Ask me about: <b>Javascript, Typescript, AI Agent, Vibe Coding, SQL</b><br>📫 How to reach me : Chenjacky32@gmail.com<br>⚡ Fun fact about me : <b>Long life learner</b>
 
+## 🐍 Contribution Graph
+![snake gif](https://github.com/chenjacky32/chenjacky32/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chenjacky32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jacky-chen-1b55422a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chenjacky32@gmail.com) 
